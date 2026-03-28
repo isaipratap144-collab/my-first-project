@@ -17,3 +17,8 @@ I created this to learn how to use repositories, commits, and files.
 I want to learn coding and build real projects.
 
 Thank you for visiting 😊
+
+## 🚀 My Projects
+- Profile Page
+- To-Do List
+- Simple Calculator
